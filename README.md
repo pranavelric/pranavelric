@@ -87,8 +87,7 @@ Here are some ideas to get you started:
 
   
 
-
-
+<a href="https://stackoverflow.com/users/10224590/pranavelric"><img src="https://stackoverflow.com/users/flair/10224590.png" width="208" height="58" alt="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -98,17 +97,13 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 <div align="left">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&count_private=true&hide_border=true" align="center" />
-  
   </div>  
-
 <br/>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&hide_border=true&layout=compact" align="left" />  
 </div>
 <br/>  
-
 <div align="left">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavelric&" alt="pranavelric" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavelric&layout=compact" alt="pranavelric" /></p>
 </div>
