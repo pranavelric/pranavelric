@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, I'm Pranav Choudhary 
-### <div align="center">I'm Pranav, a full-time Android freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="left">A full-time Android freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
 
 <a href="https://github.com/pranavelric" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
