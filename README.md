@@ -55,10 +55,10 @@ Here are some ideas to get you started:
  - 📫  Reach me [at] http://pranavelric.github.io/MyPortfolio/
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Android and related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
