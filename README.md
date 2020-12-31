@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pranavelric/pranavelric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,38 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
+## Hey 👋, I'm Pranav Choudhary 
 ### <div align="center">I'm Pranav, a full-time Android freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
 
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<p>
-
-
-- 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
-
-
-- 📫  Reach me [at] http://pranavelric.github.io/MyPortfolio/
- 
- 
-- 🌱 I’m currently learning react  
-  
-
-- ❓ Ask me about anything related to android.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavelric&label=Profile%20views&color=0e75b6&style=flat" alt="pranavelric" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavelric" alt="pranavelric" /></a> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<div align="center">
 <a href="https://github.com/pranavelric" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -59,9 +30,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/pranav choudhary" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/pranav.elric" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -71,7 +39,52 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@pranav choudhary" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+  
+  
+- 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+
+
+
+ - 📫  Reach me [at] http://pranavelric.github.io/MyPortfolio/
+  
+
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I keep night shift swithed on at all times   
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+
+
+</td></tr></table>  
+
+<br/>
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavelric&label=Profile%20views&color=0e75b6&style=flat" alt="pranavelric" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavelric" alt="pranavelric" /></a> </p>
+
+
+
+
   
 
 
