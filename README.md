@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/10224590" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@pranav choudhary" target="_blank">
+<a href="https://medium.com/@pranavchoudhary500" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
