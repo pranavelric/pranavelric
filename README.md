@@ -57,7 +57,7 @@ Here are some ideas to get you started:
  - 📫  Reach me [at] http://pranavelric.github.io/MyPortfolio/
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Flutter 
   
 
 - ❓ Ask me about anything related to Android and related technologies  
