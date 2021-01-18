@@ -86,10 +86,9 @@ Here are some ideas to get you started:
 
 
 
-
+<a href="https://stackoverflow.com/users/10224590/pranavelric"><img src="https://stackoverflow.com/users/flair/10224590.png?theme=dark" width="208"  height="58" alt="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   
 
-<a href="https://stackoverflow.com/users/10224590/pranavelric"><img src="https://stackoverflow.com/users/flair/10224590.png" width="208" height="58" alt="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
