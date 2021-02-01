@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 
- - 📫  Reach me [at] http://pranavelric.github.io/MyPortfolio/
+ - 📫  Reach me [at] https://pranavelric.me/
   
 
 - 🌱 I’m currently learning Flutter 
