@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hey 👋, I'm Pranav Choudhary 
-### <div align="left">A full-time Android freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="left">Primarily a software engineer with a background and passion for mobile technology.</div>  
 
 
 <a href="https://dev.to/pranavelric" target="_blank">
