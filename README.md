@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ❓ Ask me about anything related to Android and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 </td><td valign="top" width="50%">
