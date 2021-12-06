@@ -98,7 +98,10 @@ Here are some ideas to get you started:
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"  height="40"/> </a>
  
+  
+  
 </p>
 
 <!--
