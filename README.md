@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&hide_border=true&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&hide_border=true&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&exclude_repo=Survival-Game,Chess,ShootingGame,Box-Runner" />  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pranavelric&theme=vision-friendly-dark&hide_border=true&ring=00dca8&stroke=ffffff&currStreakNum=00dca8&sideNums=ffffff&sideLabels=b4fdec&currStreakLabel=27ddbf&fire=a6f2e0&background=050505)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
