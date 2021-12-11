@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/pranav.elric" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="hhttps://stackoverflow.com/users/10224590/pranav-choudhary?tab=profile" target="_blank">
+<a href="https://stackoverflow.com/users/10224590/pranav-choudhary?tab=profile" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
