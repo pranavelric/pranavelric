@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 - 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 
  - 📫  Reach me [at] https://pranavelric.me/
-    
-- ❓ Ask me about anything related to Android and related technologies  
-  
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
 
