@@ -72,7 +72,8 @@ Here are some ideas to get you started:
 
 
 ## Stackoverflow 
-<a href="https://stackoverflow.com/users/10224590/pranavelric"><img src="https://stackoverflow.com/users/flair/10224590.png?theme=dark" width="208"  height="58" alt="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for PranavElric at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/story/10224590"><img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
   
 <br>
 
