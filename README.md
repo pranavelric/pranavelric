@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-<!-- <img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" align="center" style="width: 100%" />
- -->
+
  
- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=400)](https://pranavelric.me/)
 
 
 </div>  
