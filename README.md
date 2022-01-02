@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
+
 
 ## Hey 👋, I'm Pranav Choudhary 
-### <div align="left">Primarily a software engineer with a background and passion for mobile technology.</div>  
+### <div align="left">Primarily a software engineer with a background and passion for mobile technology.
+</div>  
+
 
 
 <a href="https://dev.to/pranavelric" target="_blank">
@@ -38,41 +41,48 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
-
-  
-
 <br/>  
 
 
+
+
+
+
+  
+  
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table ><tr ><td valign="top" width="50%" >
   
-  
+ 
 - 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 
- - 📫  Reach me [at] https://pranavelric.me/
+ - 📫  Reach me [at] pranavchoudhary500@gmail.com
 
 - ⚡ Fun fact: I keep night shift switched on at all times   
-
+- 💡 [Learn more about me](https://pranavelric.me/)
 
 </td><td valign="top" width="50%">
 
 <div align="center">
+
+
 <img src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" align="center" style="width: 100%" />
-</div>  
+
+
+
+ </div>   
 
 
 </td></tr></table>  
-
+ 
 <br/>
-
-
-
-
-
+<br/>
 
 ## Stackoverflow 
 <a href="https://stackoverflow.com/users/story/10224590"><img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
+<!-- [![Pranav Choudhary StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10224590&theme=dark)](https://stackoverflow.com/users/story/10224590)
+ <a href="https://app.daily.dev/PranavElric"><img src="https://github.com/pranavelric/pranavelric/blob/main/devcard.svg"  style="width: 300px" align="right" alt="Pranav Choudhary's Dev Card"/></a> -->
 
   
 <br>
@@ -113,13 +123,22 @@ Here are some ideas to get you started:
 -->
 <hr>
 <br>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavelric&theme=dracula&no-frame=true&column=7&margin-w=10" alt="pranavelric"  /></a> 
+
+</details>
+
+
 <details>
 
   <summary><b>📊 Github Stats</b></summary>
 <br>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavelric&label=Profile%20views&color=0e75b6&style=flat" alt="pranavelric" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavelric&theme=dracula&no-frame=true&column=7&margin-w=10" alt="pranavelric"  /></a> 
 
  
  <img src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&count_private=true&hide_border=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF" />
@@ -135,6 +154,8 @@ Here are some ideas to get you started:
 
 
 
+<br> 
+<br> 
 
 
 
