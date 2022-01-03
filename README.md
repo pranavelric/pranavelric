@@ -239,5 +239,5 @@ Here are some ideas to get you started:
 
  -->
 
- <a href="https://github.com/pranavelric"><img src="https://github.com/pranavelric/pranavelric/blob/main/github-metrics.svg"    alt="Pranav Choudhary's Github Metrics"/></a>
+ <a href="https://metrics.lecoq.io/about/pranavelric"><img src="https://github.com/pranavelric/pranavelric/blob/main/github-metrics.svg"    alt="Pranav Choudhary's Github Metrics"/></a>
 
