@@ -56,19 +56,12 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+         
           plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
+          plugin_skyline_frames: 90
+          plugin_skyline_quality: 1
           plugin_skyline_year: current-year
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: .user.website
+ 
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
