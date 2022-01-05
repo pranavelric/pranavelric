@@ -58,14 +58,21 @@ Here are some ideas to get you started:
  
 ### 🧐 More About Me:
 - 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+- 😄  I also Love to Watch Anime in my free time and have a keen interest in Japan and Japanese Culture.
 - 📫  Reach me [at] pranavchoudhary500@gmail.com
-- ⚡ Fun fact: I keep night shift switched on at all times   
-- 💡 [Learn more about me](https://pranavelric.me/)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranav-choudhary/)
+- 💡  [Learn more about me](https://pranavelric.me/)
+- 💬  &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranav-choudhary/)
+- ⚡  Fun fact: I keep night shift switched on at all times   
 
 <br>
 
+
+### - Hobbies :
+
+- ✨ Watching Anime
+- ✨ Cooking
+- ✨ Drawing
 
 
 
