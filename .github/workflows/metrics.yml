@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -45,6 +45,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
+          
+       
+          
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
@@ -70,11 +73,11 @@ jobs:
           plugin_habits_from: 200
           plugin_stargazers: yes
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
+          plugin_topics_limit: 0
+          plugin_topics_mode: starred, mastered
           
-          
+      
+                    
           
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
