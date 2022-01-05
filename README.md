@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <br>
 
 
-### - Hobbies :
+###  Hobbies :
 
 - ✨ Watching Anime
 - ✨ Cooking
