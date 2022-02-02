@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->  
 
  
- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=400)](https://pranavelric.me/)
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=400)](https://pranavelric.github.io/)
 
 
 </div>  
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://pranavelric.me/" target="_blank">
+<a href="https://pranavelric.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 - 😄  I also Love to Watch Anime in my free time and have a keen interest in Japan and Japanese Culture.
 - 📫  Reach me [at] pranavchoudhary500@gmail.com
-- 💡  [Learn more about me](https://pranavelric.me/)
+- 💡  [Learn more about me](https://pranavelric.github.io/)
 - 💬  &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranav-choudhary/)
 - ⚡  Fun fact: I keep night shift switched on at all times   
