@@ -62,10 +62,10 @@ jobs:
           plugin_stars_limit: 4
           
          
-          plugin_skyline: yes
-          plugin_skyline_frames: 100
-          plugin_skyline_quality: 0.6
-          plugin_skyline_year: current-year
+#           plugin_skyline: yes
+#           plugin_skyline_frames: 100
+#           plugin_skyline_quality: 0.6
+#           plugin_skyline_year: current-year
  
           plugin_habits: yes
           plugin_habits_days: 14
