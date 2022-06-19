@@ -1,23 +1,4 @@
 
-
-<!--
-**pranavelric/pranavelric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.0/devicon.min.css">
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->  
-
- 
  [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=400)](https://pranavelric.github.io/)
 
 
@@ -57,7 +38,7 @@ Here are some ideas to get you started:
  <a href="https://app.daily.dev/PranavElric"><img src="https://github.com/pranavelric/pranavelric/blob/main/devcard.svg"  style="width: 300px" align="right" alt="Pranav Choudhary's Dev Card"/></a>
  
 ### 🧐 More About Me:
-- 💬  I dabble in Android, Kotlin, Java, Flutter, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+- 💬  I dabble in Android, Kotlin, Java, Flutter, Django and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 - 😄  I also Love to Watch Anime in my free time and have a keen interest in Japan and Japanese Culture.
 - 📫  Reach me [at] pranavchoudhary500@gmail.com
 - 💡  [Learn more about me](https://pranavelric.github.io/)
@@ -120,47 +101,136 @@ Here are some ideas to get you started:
 
 ## Stackoverflow 
 <a href="https://stackoverflow.com/users/story/10224590"><img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  
+  
+  
+  
+  
+  
+  
+  
+  ## My Skill Set  
+<table><tr><td valign="top" width="25%">
 
-<!-- [![Pranav Choudhary StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=10224590&theme=dark)](https://stackoverflow.com/users/story/10224590)
- <a href="https://app.daily.dev/PranavElric"><img src="https://github.com/pranavelric/pranavelric/blob/main/devcard.svg"  style="width: 300px" align="right" alt="Pranav Choudhary's Dev Card"/></a> -->
 
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+ 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
+ <img style="margin: 10px" src="https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg" alt="ember-js" height="50" /> 
+ 
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next-js" height="50" /> 
+   <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="50" /> 
+ 
+
+
+ 
+</div>
+
+</td><td valign="top" width=25%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+</div>
+
+</td><td valign="top" width="25%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+  
+</div>
+
+</td>
+ 
+ <td valign="top" width="25%">
+
+
+
+### Mob Apps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /> 
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
+
+</div>
+</div>
+
+</td>
+ 
+ 
+ </tr></table>  
+
+<br/>  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 <br>
-
-
-## Languages and Tools:
-<p align="left">
- <a href="https://developer.android.com" target="_blank"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> </a>
- <a href="https://unity.com/" target="_blank">	<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/></a>
- <a href="https://flutter.dev" target="_blank"> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> </a> 
- <a href="https://dart.dev" target="_blank">	<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/></a>
- <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a> 
- <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> </a> <br> 
-<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
- <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> </a>
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </a> 
- <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a>
- <a href="https://kotlinlang.org" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> </a> 
- <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> </a> 
- <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> </a> 
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" width="40" height="40"/> </a>
-   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"  height="40"/> </a>
- 
-  
-  
-</p>
-
-<!--
-## Github Stats  
--->
 <hr>
 <br>
 
@@ -196,49 +266,6 @@ Here are some ideas to get you started:
 
 <br> 
 <br> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ![Metrics](https://metrics.lecoq.io/pranavelric?template=classic&repositories.forks=true&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&achievements=1&notable=1&pagespeed=1&stackoverflow=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=10224590&stackoverflow.sections=answers&stackoverflow.limit=1&stackoverflow.lines=0&stackoverflow.lines.snippet=0&config.timezone=Asia%2FCalcutta&config.display=large)
-
- -->
 
  <a href="https://metrics.lecoq.io/about/pranavelric"><img src="github-metrics.svg"    alt="Pranav Choudhary's Github Metrics"/></a>
 
