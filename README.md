@@ -1,6 +1,6 @@
 <p align="center">
 
- [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1600&height=500)](https://pranavelric.github.io/)
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=%20Primarily%20a%20software%20engineer%20with%20a%20background%20and%20passion%20for%20mobile%20technology.&width=1000&height=500)](https://pranavelric.github.io/)
 </p>
 
 </div>  
@@ -34,11 +34,9 @@
 <div >
 
 
-
-
-<table >
-<tr >
-<td valign="top" style="border: 0;" width="20%" >
+<div align="center">
+ <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
+ </div>   
 
 ### 🧐 More About Me:
 
@@ -48,24 +46,22 @@
 - 💡  [Learn more about me](https://pranavelric.github.io/)
 - 💬  &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫  &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pranav-choudhary/)
-- ⚡  Fun fact: I keep night shift switched on at all times   
+- ⚡  Fun fact: I keep night shift switched on at all times
+
+  
+- <a  href="https://stackoverflow.com/users/story/10224590"><img  align="center" src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
-</td><td valign="top" width="40%" style="border: 0;">
-
-
-<div align="center">
- <a href="https://app.daily.dev/PranavElric"><img src="./devcard.svg"  style="width: 300px;" align="right" alt="Pranav Choudhary's Dev Card"/></a>
- </div>   
-
-
-</td></tr></table>  
 
 
 
 </div>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- ###  Hobbies :
 
@@ -81,6 +77,8 @@
   <img src="https://img.shields.io/github/stars/pranavelric?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
 
+
+
 ##
 <!-- Trophy -->
 <p align="center" style="width:100%">  
@@ -91,9 +89,9 @@
 <!-- Github streak -->
 
 <p align="center" >
-  <img height="150" width="150" src="WEBP/left.webp"  style="width:20%">
+  <img height="150" width="150" src="./webp/left.webp"  style="width:20%">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavelric&theme=dark&hide_border=true" style="width:50%"  />
-  <img height="150" width="150" src="WEBP/right.webp" style="width:20%">
+  <img height="150" width="150" src="./webp/right.webp" style="width:20%">
 </p>
 
 
@@ -125,34 +123,28 @@
 
 
 
-<table >
-<tr >
-<td valign="top" style="border: 0;" width="35%" >
-
 ###
 
 <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
 
-
-</td><td valign="top" width="80%" style="border: 0;">
 
   
 ## 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:  
 
 <!-- backend -->
 <div>
-<code><img  style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40"></code> 
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"  /></code>  
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40"  />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"  />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"  /></code>  
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></code>  
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40"  />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40"  />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" />  </code>
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40"  /></code>  
-<code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"  />  </code>
+<img  style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40">
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"  />
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> 
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40"  /> 
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"  />  
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"  />
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40"  />
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40"  />  
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" /> 
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40"  />
+<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"  />  
 </div>
  
  <!-- devops and mob apps -->
@@ -185,7 +177,7 @@
 <code><img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" />  </code>  
 <code><img style="margin-top: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="40" /> </code>  
 </div>
-</td></tr></table>  
+
 </div>
   
 <br>
@@ -198,8 +190,8 @@
   <summary><b>📊 Github Stats</b></summary>
 <br>
  <p align="center" > 
-<img  height="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=PRANAVELRIC&show_icons=true&hide_border=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=true&include_all_commits=true"/>
-<img align="center"  height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=true" />
+<img  height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=PRANAVELRIC&show_icons=true&hide_border=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=true&include_all_commits=true"/>
+<img align="center"  height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 
@@ -228,6 +220,9 @@
 <p align="center">
  <a href="https://metrics.lecoq.io/about/pranavelric"><img src="github-metrics.svg" width="75%"   alt="Pranav Choudhary's Github Metrics"/></a>
 </p>
+
+## 😂 Here is a random joke that'll make you laugh!
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h1>
   Connect With Me
@@ -263,12 +258,5 @@
 
 #
 
-![footer](WEBP/footer.webp)
+![footer](./webp/footer.webp)
 
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-## Stackoverflow 
-<a href="https://stackoverflow.com/users/story/10224590"><img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Pranav Choudhary on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
