@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 16 * * *"}]
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -45,7 +45,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
-          
        
           
           plugin_people: yes
@@ -62,10 +61,10 @@ jobs:
           plugin_stars_limit: 4
           
          
-#           plugin_skyline: yes
-#           plugin_skyline_frames: 100
-#           plugin_skyline_quality: 0.6
-#           plugin_skyline_year: current-year
+          # plugin_skyline: yes
+          # plugin_skyline_frames: 120
+          # plugin_skyline_quality: 0.6
+          # plugin_skyline_year: current-year
  
           plugin_habits: yes
           plugin_habits_days: 14
@@ -76,11 +75,17 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: starred
           
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 14
+          plugin_reactions_details: percentage
       
                     
           
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
           plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
+          plugin_pagespeed_screenshot: yes                        # Display a screenshot of your website
           plugin_pagespeed_url: .user.website 
+
+          plugin_fortune: yes
