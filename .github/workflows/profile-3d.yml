@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 1
+          MAX_REPOS: 250
       - name: Commit & Push
         run: |
           git config user.name ${{ github.repository_owner }}
