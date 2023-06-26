@@ -85,7 +85,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
           plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: yes                        # Display a screenshot of your website
+          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
           plugin_pagespeed_url: .user.website 
 
           plugin_fortune: yes
