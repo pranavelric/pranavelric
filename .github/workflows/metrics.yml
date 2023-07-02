@@ -38,9 +38,9 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 15
+          plugin_languages_limit: 20
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
@@ -54,7 +54,7 @@ jobs:
           plugin_people_shuffle: yes
           plugin_people_types: followers, following
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 1
+          plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_sections: answers
@@ -73,16 +73,15 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_stargazers: yes
-          plugin_stargazers_worldmap: yes
           plugin_topics: yes
-          plugin_topics_limit: 15
+          plugin_topics_limit: 20
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
           
           plugin_reactions: yes
           plugin_reactions_limit: 200
-          plugin_reactions_days: 14
+          plugin_reactions_days: 300
           plugin_reactions_details: percentage
       
                     
