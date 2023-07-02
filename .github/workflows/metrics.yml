@@ -94,6 +94,7 @@ jobs:
           plugin_pagespeed_url: .user.website 
 
           plugin_fortune: yes
+          plugin_support: yes
           
           
 #           plugin_anilist: yes
