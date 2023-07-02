@@ -12,6 +12,7 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Commit & Push
         run: |
           git config user.name ${{ github.repository_owner }}
