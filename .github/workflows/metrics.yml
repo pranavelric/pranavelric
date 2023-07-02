@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each day)
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -19,6 +19,7 @@ jobs:
           user: pranavelric
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           repositories_forks: yes
           repositories_affiliations: owner, collaborator
           config_display: large
@@ -50,6 +51,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
+          plugin_people_shuffle: yes
           plugin_people_types: followers, following
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 1
@@ -71,9 +73,12 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_stargazers: yes
+          plugin_stargazers_worldmap: yes
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 15
           plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_traffic: yes
           
           plugin_reactions: yes
           plugin_reactions_limit: 200
@@ -89,11 +94,13 @@ jobs:
           plugin_pagespeed_url: .user.website 
 
           plugin_fortune: yes
-        
-      - name: Commit & Push
-        run: |
-            git config user.name ${{ github.repository_owner }}
-            git config user.email pranavchoudhary500@gmail.com
-            git add -A .
-            git commit -m "📊😄 Dropped some fresh metrics! Stay groovy! 🚀🕺📈"
-            git push
+          
+          
+#           plugin_anilist: yes
+#           plugin_anilist_limit: 2
+#           plugin_anilist_limit_characters: 22
+#           plugin_anilist_medias: anime, manga
+#           plugin_anilist_sections: favorites
+#           plugin_anilist_shuffle: yes
+#           plugin_anilist_user: .user.login
+
