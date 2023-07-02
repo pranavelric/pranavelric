@@ -89,3 +89,11 @@ jobs:
           plugin_pagespeed_url: .user.website 
 
           plugin_fortune: yes
+        
+      - name: Commit & Push
+        run: |
+            git config user.name ${{ github.repository_owner }}
+            git config user.email pranavchoudhary500@gmail.com
+            git add -A .
+            git commit -m "📊😄 Dropped some fresh metrics! Stay groovy! 🚀🕺📈"
+            git push
