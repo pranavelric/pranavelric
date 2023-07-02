@@ -13,11 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Commit & Push
-        run: |
-          git config user.name ${{ github.repository_owner }}
-          git config user.email pranavchoudhary500@gmail.com
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+      - name: Commit & Push
+        run: |
+          git config user.name ${{ github.repository_owner }}
+          git config user.email pranavchoudhary500@gmail.com
+          git add -A .
+          git commit -m "🎨📊 Updated my DevCard!"
+          git push
