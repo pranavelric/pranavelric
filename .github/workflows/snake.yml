@@ -2,11 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "5 12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 
 jobs:
   build:
+    permissions: 
+      contents: write
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
