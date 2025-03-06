@@ -162,13 +162,19 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </p>
 
+
+
 ---
 
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake.svg">
+</picture>
 
 
 ---
