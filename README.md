@@ -81,7 +81,7 @@
 
 <p align="center" >
   <img height="150" width="150" src="./webp/left.webp"  style="width:20%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavelric&theme=dark&hide_border=true" style="width:50%"  alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats-pranavelrics-projects.vercel.app/?user=pranavelric&theme=dark&hide_border=true" style="width:50%"  alt="GitHub Streak" />
   <img height="150" width="150" src="./webp/right.webp" style="width:20%">
 </p>
 
