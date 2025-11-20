@@ -207,15 +207,12 @@
     <code><img height="60" width="60" src="https://skillicons.dev/icons?i=devto"/></code>
   </a>
   <a href="mailto:pranavchoudhary500@gmail.com">
-    <code><img src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="Pranav's Mail" height="60" width="60"></code>
+    <code><img src="https://skillicons.dev/icons?i=gmail" alt="Pranav's Mail" height="60" width="60"></code>
   </a>     
 </p>
 </br>
 </br>
 
-<div align="center">
-  <h3>Show some ❤️ by starring my repositories!</h3>
-</div>
 
 ---
 
