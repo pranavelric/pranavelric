@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pranavelric.github.io/">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Software%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Open%20Source%20Enthusiast&width=1200&height=400" alt="Pranav Choudhary - Software Engineer specializing in Android, Kotlin, Flutter, and modern web technologies" />
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Crafting Software%20%7C%20Mobile Apps%20%7C%20Full Stack Solutions%20%7C%20Exploring the World&width=1200&height=400" alt="Pranav Choudhary - Software Engineer | Crafting Software Across the Stack" />
   </a>
 </p>
 
@@ -40,17 +40,19 @@
   </a>
 </div>
 
-- 💻 **Software Engineer** specializing in **Mobile Development** and **Backend Systems**
-- 🔧 **Tech Stack**: Android • Kotlin • Java • Flutter • Django • Python
-- 🤖 **Automation Enthusiast**: Living in the terminal, automating everything possible
-- 🎌 **Interests**: Anime, Japanese culture, and exploring new technologies
-- 📧 **Contact**: [pranavchoudhary500@gmail.com](mailto:pranavchoudhary500@gmail.com)
-- 🌐 **Portfolio**: [pranavelric.github.io](https://pranavelric.github.io/)
-- ⚡ **Fun Fact**: I keep night shift mode on 24/7!
+- 💻 I'm a **full stack developer** crafting solutions across mobile, backend, and frontend technologies. I'm passionate about automation — practically living inside the terminal.
+
+- 🚀 Beyond code, I'm driven by continuous learning and exploring emerging technologies. When I'm not coding, you'll find me diving into anime, exploring Japanese culture, or planning my next adventure.
+
+- 📧 **Let's connect!** Reach out at [pranavchoudhary500@gmail.com](mailto:pranavchoudhary500@gmail.com) or check out my [portfolio](https://pranavelric.github.io/).
+
+- ⚡ **Fun fact:** I keep night shift mode on 24/7!
+
+
 
 <br clear="right"/>
 
-<div align="center">
+<div align="left">
   <a href="https://stackoverflow.com/users/story/10224590">
     <img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="Stack Exchange Developer Profile - Pranav Choudhary" />
   </a>
@@ -61,9 +63,9 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&hide_border=true&theme=vue&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00DCA8&text_color=FDFCFF&icon_color=00ab75" alt="Pranav's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&layout=compact&langs_count=12&hide_border=true&theme=vue&bg_color=0D1117&title_color=00DCA8&text_color=FDFCFF" alt="Pranav's Most Used Languages" />
+<div align="center" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&hide_border=true&theme=vue&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF&icon_color=00ab75" alt="Pranav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&layout=compact&langs_count=12&hide_border=true&theme=vue&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF" alt="Pranav's Most Used Languages" />
 </div>
 
 <br/>
@@ -84,7 +86,7 @@
 
 <div align="center">
   <img height="150" width="150" src="./images/webp/left.webp" alt="Decorative left element" />
-  <img src="https://github-readme-streak-stats-pranavelrics-projects.vercel.app/?user=pranavelric&theme=dark&hide_border=true&background=0D1117&ring=00DCA8&fire=00ab75&currStreakLabel=00DCA8" alt="GitHub Contribution Streak Stats" />
+  <img src="https://github-readme-streak-stats-pranavelrics-projects.vercel.app/?user=pranavelric&theme=dark&hide_border=true" alt="GitHub Contribution Streak Stats" />
   <img height="150" width="150" src="./images/webp/right.webp" alt="Decorative right element" />
 </div>
 
@@ -94,34 +96,36 @@
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-
-### Backend & Databases
-<img align="left" height="280px" width="280px" alt="GitHub Octocat Mascot" src="https://octodex.github.com/images/Fintechtocat.png"/>
-
-<div align="left">
+<table style="border:none">
+  <tr>
+    <td align="center" width="40%" style="border:none">
+      <img height="280px" width="280px" alt="GitHub Octocat Mascot" src="https://octodex.github.com/images/Fintechtocat.png"/>
+    </td>
+    <td width="60%" style="border:none">
+      
+  #### Backend & Databases
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,django,mongodb,postgres,mysql,redis,firebase,nginx" alt="Backend technologies: JavaScript, Node.js, Python, Java, Django, MongoDB, PostgreSQL, MySQL, Redis, Firebase, Nginx" />
-</div>
 
-<br clear="left"/>
-
-### DevOps & Cloud
-<div align="left">
+  #### DevOps & Cloud
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,gitlab,linux,bash" alt="DevOps and Cloud: Docker, Kubernetes, AWS, Google Cloud Platform, Git, GitHub, GitLab, Linux, Bash" />
+
+  #### Mobile Development
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,swift" alt="Mobile development: Kotlin, Java, Flutter, Dart, Android, Swift" />
+
+  #### Frontend & Design
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,sass,ai,xd,remix,nextjs" alt="Frontend and Design: React, HTML5, CSS3, JavaScript, Bootstrap, Sass, Adobe Illustrator, Adobe XD, Remix" />
+
+  </td>
+  </tr>
+</table>
+
 </div>
 
-### Mobile Development
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,android,swift" alt="Mobile development: Kotlin, Java, Flutter, Dart, Android, Swift" />
-</div>
 
-### Frontend & Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,sass,ai,xd,remix" alt="Frontend and Design: React, HTML5, CSS3, JavaScript, Bootstrap, Sass, Adobe Illustrator, Adobe XD, Remix" />
-</div>
 
-</div>---
+ ---
 
-## 📈 Activity & Contributions
+## 🌟 Activity & Contributions
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavelric&theme=react-dark&hide_border=true&area=true&radius=10&bg_color=0D1117&color=00DCA8&line=00ab75&point=FDFCFF&area_color=4ddb75" alt="GitHub Contribution Activity Graph - Last 30 Days" />
@@ -131,13 +135,14 @@
 
 ## 🎭 Developer Humor
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=vue&hideBorder" alt="Random Developer Joke" />
+<div align="left">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Random Developer Joke" />
 </div>
 
 ---
 
 ## 🌈 Contribution Visualizations
+
 
 <div align="center">
   <img src="./images/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph - Rainbow Night Theme" />
@@ -160,6 +165,7 @@
     <img src="./images/github-metrics.svg" width="80%" alt="Comprehensive GitHub Metrics Dashboard" />
   </a>
 </div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -187,39 +193,7 @@
 
 ---
 
-## 🔄 Profile Automation
 
-This profile is automatically updated using GitHub Actions workflows:
-
-```mermaid
-graph LR
-    A[GitHub Actions] --> B[Metrics Update]
-    A --> C[Contribution Snake]
-    A --> D[3D Contributions]
-    A --> E[DevCard Update]
-    
-    B --> F[Daily at 00:00 UTC]
-    C --> G[Weekly - Sunday 00:00]
-    D --> H[Weekly - Sunday 02:00]
-    E --> I[Weekly - Sunday 01:00]
-    
-    F --> J[Profile Updated]
-    G --> J
-    H --> J
-    I --> J
-    
-    style A fill:#00DCA8,stroke:#00ab75,stroke-width:2px,color:#000
-    style J fill:#00ab75,stroke:#00DCA8,stroke-width:2px,color:#fff
-```
-
-**Automation Features:**
-- 📊 **GitHub Metrics**: Daily updates with comprehensive statistics
-- 🐍 **Contribution Snake**: Weekly animated contribution graph
-- 📦 **3D Profile**: Weekly 3D visualization of contributions
-- 🎴 **DevCard**: Weekly developer card from daily.dev
-- ⭐ **Star/Fork Counter**: Real-time tracking on events
-
----
 
 <div align="center">
   <img src="./images/webp/footer.webp" alt="Profile Footer Decoration" />
@@ -229,13 +203,7 @@ graph LR
   <p>
     <b>⭐ If you find my projects interesting, consider giving them a star!</b>
   </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
-    <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge" alt="Actively maintained"/>
-    <img src="https://img.shields.io/badge/Open%20Source-❤️-blue?style=for-the-badge" alt="Open source enthusiast"/>
-  </p>
-  
+    
   <p>
     <sub>© 2025 Pranav Choudhary. Licensed under MIT.</sub>
   </p>

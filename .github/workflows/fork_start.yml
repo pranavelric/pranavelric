@@ -6,7 +6,7 @@ on:
     types:
       - started
   schedule:
-    - cron: '0 3 * * 0'  # Weekly on Sunday at 03:00 UTC
+    - cron: '0 0 * * *'  # Runs daily at midnight
   workflow_dispatch:
 
 jobs:

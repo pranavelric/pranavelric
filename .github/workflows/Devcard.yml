@@ -5,7 +5,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 * * 0"  # Weekly on Sunday at 01:00 UTC
+    - cron: "0 0 * * *" # Runs daily at midnight  
 
 jobs:
   devcard:

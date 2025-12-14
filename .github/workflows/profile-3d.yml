@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 2 * * 0"  # Weekly on Sunday at 02:00 UTC
+    - cron: "0 0 * * *"  # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
