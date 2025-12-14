@@ -7,6 +7,7 @@
 ehthumbs.db
 Thumbs.db
 *~
+*.desktop
 
 # IDE and Editor Files
 .vscode/
@@ -17,6 +18,9 @@ Thumbs.db
 .project
 .classpath
 .settings/
+*.sublime-project
+*.sublime-workspace
+.atom/
 
 # Temporary Files
 *.tmp
@@ -24,6 +28,7 @@ Thumbs.db
 *.log
 *.cache
 /tmp/
+.temp/
 
 # Build Artifacts
 dist/
@@ -31,8 +36,31 @@ build/
 *.pyc
 __pycache__/
 node_modules/
+*.egg-info/
+.pytest_cache/
 
 # Backup Files
 *.bak
 *.backup
 *.orig
+*~
+
+# Local Environment
+.env
+.env.local
+.env.*.local
+
+# Test Coverage
+coverage/
+.coverage
+*.cover
+htmlcov/
+
+# Documentation Build
+docs/_build/
+site/
+
+# Package Manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
