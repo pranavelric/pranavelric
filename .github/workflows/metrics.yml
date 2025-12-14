@@ -70,6 +70,7 @@ jobs:
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: .user.website
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_shuffle: yes
@@ -78,12 +79,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-            "url": "https://skyline.github.com/${login}/${year}",
-            "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-            "wait": 1,
-            "hide": "button, footer, a"
-          }
+
 
           plugin_skyline_year: current-year
           plugin_stackoverflow: yes
