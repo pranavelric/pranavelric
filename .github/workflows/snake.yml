@@ -2,9 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"  # Daily at midnight UTC
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 
 jobs:
   build:
@@ -19,8 +18,8 @@ jobs:
         with:
           github_user_name: pranavelric
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/images/github-contribution-grid-snake.svg
+            dist/images/github-contribution-grid-snake-dark.svg?palette=github-dark
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
