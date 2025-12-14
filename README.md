@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://pranavelric.github.io/">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Crafting Software%20%7C%20Mobile Apps%20%7C%20Full Stack Solutions%20%7C%20Exploring the World&width=1200&height=400" alt="Pranav Choudhary - Software Engineer | Crafting Software Across the Stack" />
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Crafting%20Software%20%7C%20Mobile%20Apps%20%7C%20Full%20Stack%20Solutions%20%7C%20Exploring%20the%20World&width=1200&height=400" alt="Pranav Choudhary - Software Engineer | Crafting Software Across the Stack" />
   </a>
 </p>
 
