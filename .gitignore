@@ -1,0 +1,38 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+/tmp/
+
+# Build Artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+node_modules/
+
+# Backup Files
+*.bak
+*.backup
+*.orig

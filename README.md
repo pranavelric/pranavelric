@@ -1,221 +1,242 @@
 <p align="center">
   <a href="https://pranavelric.github.io/">
-    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Primarily%20a%20software%20engineer%20with%20a%20passion%20for%20mobile%20technology&width=1000&height=500" alt="Banner" />
+    <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hey%20there,%20I'm%20Pranav%20Choudhary&text2=Software%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Open%20Source%20Enthusiast&width=1200&height=400" alt="Pranav Choudhary - Software Engineer specializing in Android, Kotlin, Flutter, and modern web technologies" />
   </a>
 </p>
+
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  <a href="https://dev.to/pranavelric" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <a href="https://dev.to/pranavelric" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Profile" />
   </a>
-  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-  <a href="https://instagram.com/pranav.elric" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/pranav.elric" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
-  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Profile" />
   </a>
-  <a href="https://pranavelric.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  <a href="https://pranavelric.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Personal Portfolio Website" />
   </a>
 </p>
 
-
-
-###
 <p align="center">  
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=pranavelric&style=flat&color=brightgreen"> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/pranavelric?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/pranavelric?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=pranavelric&style=flat&color=brightgreen" /> •
+  <img alt="GitHub followers count" src="https://img.shields.io/github/followers/pranavelric?label=Followers&style=social" /> •
+  <img alt="Total GitHub stars" src="https://img.shields.io/github/stars/pranavelric?label=Stars&style=social" />
 </p>
 
 ---
 
-
-
-
-## 🧐 More About Me
+## 🚀 About Me
 
 <div align="center">
   <a href="https://app.daily.dev/PranavElric">
-    <img src="./devcard.svg" width="250" alt="Pranav Choudhary's Dev Card" align="right" />
+    <img src="./images/devcard.svg" width="280" alt="Pranav Choudhary's Daily.dev Developer Card" align="right" />
   </a>
 </div>
 
-- 💬  I dabble in **Android**, **Kotlin**, **Java**, **Flutter**, **Django** and spend most of my time automating my life practically living inside the terminal 🤷🏻‍♂️.
-- 😄 In my free time, I enjoy watching **anime** and exploring **Japanese culture**.
-- 📫 Reach me at: **pranavchoudhary500@gmail.com**.
-- 💡 Learn more about me on my [portfolio](https://pranavelric.github.io/).
-- ⚡ **Fun fact**: I keep night shift mode on 24/7!
+- 💻 **Software Engineer** specializing in **Mobile Development** and **Backend Systems**
+- 🔧 **Tech Stack**: Android • Kotlin • Java • Flutter • Django • Python
+- 🤖 **Automation Enthusiast**: Living in the terminal, automating everything possible
+- 🎌 **Interests**: Anime, Japanese culture, and exploring new technologies
+- 📧 **Contact**: [pranavchoudhary500@gmail.com](mailto:pranavchoudhary500@gmail.com)
+- 🌐 **Portfolio**: [pranavelric.github.io](https://pranavelric.github.io/)
+- ⚡ **Fun Fact**: I keep night shift mode on 24/7!
 
+<br clear="right"/>
 
+<div align="center">
   <a href="https://stackoverflow.com/users/story/10224590">
-    <img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="Stack Exchange profile" />
+    <img src="https://stackexchange.com/users/flair/14153116.png?theme=dark" width="208" height="58" alt="Stack Exchange Developer Profile - Pranav Choudhary" />
   </a>
+</div>
 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p> 
-<img  height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=PRANAVELRIC&show_icons=true&hide_border=true&theme=vue&hide_border=true&count_private=true&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&count_private=true&include_all_commits=true"/>
-<img align="center"  height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&bg_color=050505&title_color=00DCA8&text_color=FDFCFF&langs_count=15&layout=compact&hide_border=true" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&hide_border=true&theme=vue&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00DCA8&text_color=FDFCFF&icon_color=00ab75" alt="Pranav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&layout=compact&langs_count=12&hide_border=true&theme=vue&bg_color=0D1117&title_color=00DCA8&text_color=FDFCFF" alt="Pranav's Most Used Languages" />
+</div>
 
+<br/>
 
+<div align="center">
+  <a href="https://holopin.io/@pranavelric">
+    <img src="https://holopin.me/pranavelric" alt="Pranav Choudhary's Holopin Badges - Digital Achievement Collection" />
+  </a>
+</div>
 
+<br/>
 
-#
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavelric&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh" alt="GitHub Trophies and Achievements" />
+</div>
 
- [![An image of @pranavelric's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavelric)](https://holopin.io/@pranavelric)
-#
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavelric&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh&rank=-?" alt="GitHub Trophies" />
-</p>
-
-##
-
-<p align="center" >
-  <img height="150" width="150" src="./webp/left.webp"  style="width:20%">
-  <img align="center" src="https://github-readme-streak-stats-pranavelrics-projects.vercel.app/?user=pranavelric&theme=dark&hide_border=true" style="width:50%"  alt="GitHub Streak" />
-  <img height="150" width="150" src="./webp/right.webp" style="width:20%">
-</p>
+<div align="center">
+  <img height="150" width="150" src="./images/webp/left.webp" alt="Decorative left element" />
+  <img src="https://github-readme-streak-stats-pranavelrics-projects.vercel.app/?user=pranavelric&theme=dark&hide_border=true&background=0D1117&ring=00DCA8&fire=00ab75&currStreakLabel=00DCA8" alt="GitHub Contribution Streak Stats" />
+  <img height="150" width="150" src="./images/webp/right.webp" alt="Decorative right element" />
+</div>
 
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technologies & Tools
 
+<div align="center">
 
-<!-- backend -->
- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/Fintechtocat.png"/>
-<div>
-<img  style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40">
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"  />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> 
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40"  /> 
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40"  />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40"  />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40"  />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40"  />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" /> 
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40"  />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40"  />  
-</div>
- 
- <!-- devops and mob apps -->
-###
-<div>
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"  />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40"  /> 
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Java" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" />
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" />
+### Backend & Databases
+<img align="left" height="280px" width="280px" alt="GitHub Octocat Mascot" src="https://octodex.github.com/images/Fintechtocat.png"/>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,django,mongodb,postgres,mysql,redis,firebase,nginx" alt="Backend technologies: JavaScript, Node.js, Python, Java, Django, MongoDB, PostgreSQL, MySQL, Redis, Firebase, Nginx" />
 </div>
 
-<!-- frontend -->
-###
-<div>
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />   
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />   
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" />  
-<img style="margin-top: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" />  
-<img style="margin-top: 10px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="Remix" height="40" /> 
-</div>
+<br clear="left"/>
+
+### DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,github,gitlab,linux,bash" alt="DevOps and Cloud: Docker, Kubernetes, AWS, Google Cloud Platform, Git, GitHub, GitLab, Linux, Bash" />
 </div>
 
-<br>
-<hr>
-<br>
+### Mobile Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,android,swift" alt="Mobile development: Kotlin, Java, Flutter, Dart, Android, Swift" />
+</div>
 
+### Frontend & Design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,sass,ai,xd,remix" alt="Frontend and Design: React, HTML5, CSS3, JavaScript, Bootstrap, Sass, Adobe Illustrator, Adobe XD, Remix" />
+</div>
 
+</div>---
 
+## 📈 Activity & Contributions
 
-## 🌟 Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavelric&theme=react-dark&hide_border=true&area=true&radius=10&color=00DCA8&line=00ab75&area_color=4ddb75" alt="Activity Graph" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavelric&theme=react-dark&hide_border=true&area=true&radius=10&bg_color=0D1117&color=00DCA8&line=00ab75&point=FDFCFF&area_color=4ddb75" alt="GitHub Contribution Activity Graph - Last 30 Days" />
+</div>
 
 ---
 
-## 😂 Random Joke
+## 🎭 Developer Humor
 
-<p >
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
-</p>
-
-
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=vue&hideBorder" alt="Random Developer Joke" />
+</div>
 
 ---
 
+## 🌈 Contribution Visualizations
 
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <img src="./images/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph - Rainbow Night Theme" />
+</div>
 
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranavelric/pranavelric/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/images/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavelric/pranavelric/main/images/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation - Eating contributions" src="https://raw.githubusercontent.com/pranavelric/pranavelric/main/images/github-contribution-grid-snake.svg">
 </picture>
 
-
 ---
 
-## 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+## 📊 Detailed GitHub Metrics
 
-<p align="center">
- <a href="https://metrics.lecoq.io/about/pranavelric"><img src="github-metrics.svg" width="75%"   alt="Pranav Choudhary's Github Metrics"/></a>
-</p>
+<div align="center">
+  <a href="https://metrics.lecoq.io/about/pranavelric">
+    <img src="./images/github-metrics.svg" width="80%" alt="Comprehensive GitHub Metrics Dashboard" />
+  </a>
+</div>
+---
 
+## 🤝 Connect With Me
 
-
-
-## 📬 Connect With Me
-
-</br>
-
-<p align="center">
+<div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank">
-    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin"/></code>
+  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank" rel="noopener noreferrer">
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Professional Network"/>
   </a>
-  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary/" target="_blank">
-    <code><img  height="60" width="60" src="https://skillicons.dev/icons?i=stackoverflow"/></code>
+  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary/" target="_blank" rel="noopener noreferrer">
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow - Q&A Profile"/>
   </a>
-  <a href="https://www.instagram.com/pranav.elric" target="_blank">
-    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=instagram"/></code>
+  <a href="https://www.instagram.com/pranav.elric" target="_blank" rel="noopener noreferrer">
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=instagram" alt="Instagram - Personal Updates"/>
   </a>
-  <a href="https://dev.to/pranavelric" target="_blank">
-    <code><img height="60" width="60" src="https://skillicons.dev/icons?i=devto"/></code>
+  <a href="https://dev.to/pranavelric" target="_blank" rel="noopener noreferrer">
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=devto" alt="Dev.to - Technical Blog"/>
   </a>
   <a href="mailto:pranavchoudhary500@gmail.com">
-    <code><img src="https://skillicons.dev/icons?i=gmail" alt="Pranav's Mail" height="60" width="60"></code>
+    <img height="60" width="60" src="https://skillicons.dev/icons?i=gmail" alt="Email - pranavchoudhary500@gmail.com"/>
   </a>     
-</p>
-</br>
-</br>
+</div>
 
+<br/>
 
 ---
 
-<p align="center">
-  <img src="./webp/footer.webp" alt="Footer" />
-</p>
+## 🔄 Profile Automation
+
+This profile is automatically updated using GitHub Actions workflows:
+
+```mermaid
+graph LR
+    A[GitHub Actions] --> B[Metrics Update]
+    A --> C[Contribution Snake]
+    A --> D[3D Contributions]
+    A --> E[DevCard Update]
+    
+    B --> F[Daily at 00:00 UTC]
+    C --> G[Weekly - Sunday 00:00]
+    D --> H[Weekly - Sunday 02:00]
+    E --> I[Weekly - Sunday 01:00]
+    
+    F --> J[Profile Updated]
+    G --> J
+    H --> J
+    I --> J
+    
+    style A fill:#00DCA8,stroke:#00ab75,stroke-width:2px,color:#000
+    style J fill:#00ab75,stroke:#00DCA8,stroke-width:2px,color:#fff
+```
+
+**Automation Features:**
+- 📊 **GitHub Metrics**: Daily updates with comprehensive statistics
+- 🐍 **Contribution Snake**: Weekly animated contribution graph
+- 📦 **3D Profile**: Weekly 3D visualization of contributions
+- 🎴 **DevCard**: Weekly developer card from daily.dev
+- ⭐ **Star/Fork Counter**: Real-time tracking on events
+
+---
+
+<div align="center">
+  <img src="./images/webp/footer.webp" alt="Profile Footer Decoration" />
+  
+  <br/><br/>
+  
+  <p>
+    <b>⭐ If you find my projects interesting, consider giving them a star!</b>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
+    <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge" alt="Actively maintained"/>
+    <img src="https://img.shields.io/badge/Open%20Source-❤️-blue?style=for-the-badge" alt="Open source enthusiast"/>
+  </p>
+  
+  <p>
+    <sub>© 2025 Pranav Choudhary. Licensed under MIT.</sub>
+  </p>
+</div>
