@@ -1,10 +1,11 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (daily at 00:00 UTC)
+  # Schedule updates (each day at midnight UTC)
   schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,6 +16,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
           filename: images/github-metrics.svg
 
@@ -33,15 +42,21 @@ jobs:
           plugin_achievements_threshold: C
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_fortune: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 20
+          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
@@ -49,55 +64,57 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_from: organization
-       
-          
+          plugin_notable_types: commit
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_pwa: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: .user.website
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} 
           plugin_people: yes
           plugin_people_limit: 24
-          plugin_people_size: 28
           plugin_people_shuffle: yes
+          plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+
+
+          plugin_skyline_year: current-year
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 0
           plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_sections: answers
           plugin_stackoverflow_user: 10224590
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 30
+          plugin_stargazers_worldmap: yes
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          
-         
-          # plugin_skyline: yes
-          # plugin_skyline_frames: 120
-          # plugin_skyline_quality: 0.6
-          # plugin_skyline_year: current-year
- 
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_stargazers: yes
+          plugin_support: yes
           plugin_topics: yes
-          plugin_topics_limit: 20
+          plugin_topics_limit: 30
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_traffic: yes
-          
           plugin_reactions: yes
           plugin_reactions_limit: 200
           plugin_reactions_days: 300
           plugin_reactions_details: percentage
-      
-                    
-          
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
-          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
-          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
-          plugin_pagespeed_url: .user.website 
 
-          plugin_fortune: yes
-          plugin_support: yes
-          
       - name: Commit & Push
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -105,13 +122,3 @@ jobs:
           git add images/github-metrics.svg
           git commit -m "Update GitHub metrics" || exit 0
           git push
-          
-          
-#           plugin_anilist: yes
-#           plugin_anilist_limit: 2
-#           plugin_anilist_limit_characters: 22
-#           plugin_anilist_medias: anime, manga
-#           plugin_anilist_sections: favorites
-#           plugin_anilist_shuffle: yes
-#           plugin_anilist_user: .user.login
-
