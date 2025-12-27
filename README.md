@@ -79,7 +79,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavelric&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh" alt="GitHub Trophies and Achievements" />
+  <img src="https://github-profile-trophy-ev8wtah92-pranavelrics-projects.vercel.app?username=pranavelric&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh" alt="GitHub Trophies and Achievements" />
 </div>
 
 <br/>
