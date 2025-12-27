@@ -64,8 +64,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavelric&show_icons=true&hide_border=true&theme=vue&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF&icon_color=00ab75" alt="Pranav's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavelric&layout=compact&langs_count=12&hide_border=true&theme=vue&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF" alt="Pranav's Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats-three-pi-24.vercel.app/api?username=pranavelric&show_icons=true&hide_border=true&theme=vue&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF&icon_color=00ab75" alt="Pranav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-three-pi-24.vercel.app/api/top-langs/?username=pranavelric&layout=compact&langs_count=12&hide_border=true&theme=vue&bg_color=0D1117&title_color=FFFFFF&text_color=FDFCFF" alt="Pranav's Most Used Languages" />
 </div>
 
 <br/>
