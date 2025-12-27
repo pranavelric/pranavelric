@@ -79,8 +79,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-ev8wtah92-pranavelrics-projects.vercel.app?username=pranavelric&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh" alt="GitHub Trophies and Achievements" />
+  
+[![trophy](https://github-profile-trophy-nine-coral.vercel.app/?username=pranavelric&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pranavelric/github-profile-trophy&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=juicyfresh)
+
 </div>
+
+
+
 
 <br/>
 
