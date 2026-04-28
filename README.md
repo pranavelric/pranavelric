@@ -175,24 +175,24 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/pranav-choudhary/" target="_blank" rel="noopener noreferrer">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Professional Network"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-choudhary/">
+    <img height="60" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary/" target="_blank" rel="noopener noreferrer">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow - Q&A Profile"/>
+  <a href="https://stackoverflow.com/users/10224590/pranav-choudhary/">
+    <img height="60" src="https://skillicons.dev/icons?i=stackoverflow"/>
   </a>
-  <a href="https://www.instagram.com/pranav.elric" target="_blank" rel="noopener noreferrer">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=instagram" alt="Instagram - Personal Updates"/>
+  <a href="https://www.instagram.com/pranav.elric">
+    <img height="60" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a href="https://dev.to/pranavelric" target="_blank" rel="noopener noreferrer">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=devto" alt="Dev.to - Technical Blog"/>
+  <a href="https://dev.to/pranavelric">
+    <img height="60" src="https://skillicons.dev/icons?i=devto"/>
   </a>
   <a href="mailto:pranavchoudhary500@gmail.com">
-    <img height="60" width="60" src="https://skillicons.dev/icons?i=gmail" alt="Email - pranavchoudhary500@gmail.com"/>
-  </a>     
-</div>
+    <img height="60" src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
 
 <br/>
 
