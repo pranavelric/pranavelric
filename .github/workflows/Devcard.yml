@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
       
       - name: devcard
-        uses: dailydotdev/action-devcard@2.0.4
+        uses: dailydotdev/action-devcard@3.2.1
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
       
