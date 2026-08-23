@@ -19,7 +19,7 @@
   <a href="https://stackoverflow.com/users/10224590/pranav-choudhary" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Profile" />
   </a>
-  <a href="https://pranavelric.github.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://pranavelric.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Personal Portfolio Website" />
   </a>
 </p>
