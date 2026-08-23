@@ -44,7 +44,7 @@
 
 - 🚀 Beyond code, I'm driven by continuous learning and exploring emerging technologies. When I'm not coding, you'll find me diving into anime, exploring Japanese culture, or planning my next adventure.
 
-- 📧 **Let's connect!** Reach out at [pranavchoudhary500@gmail.com](mailto:pranavchoudhary500@gmail.com) or check out my [portfolio](https://pranavelric.github.io/).
+- 📧 **Let's connect!** Reach out at [pranavchoudhary500@gmail.com](mailto:pranavchoudhary500@gmail.com) or check out my [portfolio](https://pranavelric.vercel.app/).
 
 - ⚡ **Fun fact:** I keep night shift mode on 24/7!
 
